@@ -1,2 +1,3 @@
-# my-serverless-portfolio
-This is my professional portfolio developed in AWS
+# Sameer Salve's portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS.
